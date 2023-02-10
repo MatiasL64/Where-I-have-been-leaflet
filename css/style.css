@@ -1,10 +1,10 @@
 :root {
-  --olive: #3D3B30;
+  --red: #FF3C38;
   --heading-size: 2em;
 }
 
 h2 {
-  color: var(--olive);
+  color: var(--red);
   
 }
 
