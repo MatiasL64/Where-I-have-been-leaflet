@@ -1,3 +1,25 @@
+:root {
+  -- blue: #3D3B30;
+  -- heading-size: 2em;
+}
+
+h2 {
+  color: var(--olive);
+  
+}
+
+:root {
+  -- blue: #1e90ff;
+  -- heading-size: 2em;
+}
+
+h2 {
+  color: var(--blue);
+  
+}
+
+
+
 body {
   padding: 0px;
   margin: 0px;
