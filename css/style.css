@@ -1,10 +1,10 @@
 :root {
-  --cerulean: #247BA0;
+  --cerulean: #97D2FB;
   --heading-size: 2em;
 }
 
 h2 {
-  color: var(--cerulean);
+  color: var(--blue);
   
 }
 
