@@ -1,10 +1,10 @@
 :root {
-  --red: #FF3C38;
+  --red: #247BA0;
   --heading-size: 2em;
 }
 
 h2 {
-  color: var(--red);
+  color: var(--cerulean);
   
 }
 
@@ -12,7 +12,7 @@ h2 {
 body {
   padding: 0px;
   margin: 0px;
-  font-family: "Helvetica", sans-serif;
+  font-family: "Julee", sans-serif;
   overflow: hidden;
 }
 
